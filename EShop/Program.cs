@@ -10,8 +10,6 @@ public class Program
         
         
         var builder = WebApplication.CreateBuilder(args);
-
-        /*builder.Configuration.SetBasePath(DirectoryBrowserExtensions.GetCurrentDirectory()).AddJsonFile("secrets.json");*/
         
         builder.Services.AddDbContext<EShopContext>(options =>
         {
