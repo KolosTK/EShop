@@ -5,7 +5,7 @@ namespace EShop.Entities;
 public class Product
 {
     [Key]
-    public int ProductId { get; set; }
+    public int Id { get; set; }
     [Required]
     public string Name { get; set; }
     [Required]
