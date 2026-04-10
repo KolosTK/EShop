@@ -1,13 +1,14 @@
-﻿using EShop.Entities;
+﻿using EShop.DTOs;
+using EShop.Entities;
 
 namespace EShop.Services;
 
 public interface IProductService
 {
-    public Task<List<Product>> GetAllProducts();
-    public Task<Product?> GetProductById(int productId);
-    public Task<Product?> AddProduct(int productId, Product product);
-    public Task<bool> UpdateProduct(Product product);
-    public Task<bool> DeleteProduct(int productId);
+    public Task<List<ProductResponseDTO>> GetAllProductsAsync();
+    public Task<ProductResponseDTO?> GetProductByIdAsync(int productId);
+    public Task<ProductResponseDTO?> AddProductAsync( CreateProductRequestDTO product);
+    public Task<bool> UpdateProductAsync(int productId, UpdateProductRequestDTO product);
+    public Task<bool> DeleteProductAsync(int productId);
     
 }

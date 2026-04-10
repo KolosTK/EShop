@@ -23,7 +23,6 @@ public class EShopContextFactory : IDesignTimeDbContextFactory<EShopContext>
         Console.WriteLine($"ConnectionString: {connectionString}");
         Console.WriteLine("=============");
 
-        // test the connection right here
         using (var conn = new SqlConnection(connectionString))
         {
             conn.Open();

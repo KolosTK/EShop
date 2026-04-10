@@ -12,9 +12,9 @@ public class EShopContext : DbContext
     {
     }
     
-    private DbSet<Product> Products { get; set; }
+    public DbSet<Product> Products { get; set; }
 
-    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    /*protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Product>(entity =>
         {
@@ -32,5 +32,5 @@ public class EShopContext : DbContext
                 .IsRequired()
                 .HasPrecision(18, 2);
         });
-    }
+    }*/
 }
