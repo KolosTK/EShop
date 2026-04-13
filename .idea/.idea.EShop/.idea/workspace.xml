@@ -12,43 +12,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13b1e700-b1e2-4428-8275-21fc8e391750" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.EShop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EShop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/Data/EShopContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/Data/EShopContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/Data/Migrations/20260331133155_InitialCreate.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/Data/Migrations/20260331133155_InitialCreate.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/Data/Migrations/EShopContextModelSnapshot.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/EShop.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/EShop.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/Entities/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/Entities/Product.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EShop.Tests/EShop.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EShop.Tests/EShop.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EShop.Tests/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EShop.Tests/GuessTheNumberTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EShop.Tests/obj/Debug/net10.0/EShop.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EShop.Tests/obj/Debug/net10.0/EShop.Tests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EShop.Tests/obj/Debug/net10.0/EShop.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EShop.Tests/obj/Debug/net10.0/EShop.Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EShop.Tests/obj/Debug/net10.0/EShop.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EShop.Tests/obj/Debug/net10.0/EShop.Tests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EShop.Tests/obj/Debug/net10.0/EShop.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EShop.Tests/obj/Debug/net10.0/EShop.Tests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EShop.Tests/obj/EShop.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EShop.Tests/obj/EShop.Tests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EShop.Tests/obj/EShop.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EShop.Tests/obj/EShop.Tests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EShop.Tests/obj/EShop.Tests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/EShop.Tests/obj/EShop.Tests.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EShop.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EShop.Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EShop.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EShop.Tests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EShop.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EShop.Tests/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EShop.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/EShop.Tests/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EShop/bin/Debug/net10.0/EShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/bin/Debug/net10.0/EShop.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EShop/bin/Debug/net10.0/EShop.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/bin/Debug/net10.0/EShop.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EShop/bin/Debug/net10.0/EShop.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/bin/Debug/net10.0/EShop.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/bin/Debug/net10.0/EShop.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/bin/Debug/net10.0/EShop.staticwebassets.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/bin/Debug/net10.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/bin/Debug/net10.0/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/EShop.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/EShop.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/EShop.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/EShop.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/EShop.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/EShop.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/EShop.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/EShop.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/EShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/EShop.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/EShop.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/EShop.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/EShop.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/EShop.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/rbcswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/rbcswa.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/ref/EShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/ref/EShop.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/refint/EShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/refint/EShop.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/rjimswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/rjimswa.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/rpswa.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/staticwebassets.build.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/staticwebassets.build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/staticwebassets.build.json.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/Debug/net10.0/staticwebassets.build.json.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/obj/EShop.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/EShop.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/obj/EShop.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/EShop.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EShop/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EShop/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/EShop/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,10 +60,10 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d68fa1cac1746449ae52924b0c66658879f8bbe18be3de345fcc1af7f30e43a/RouteAttribute.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f821b6bf9958b7423c9d99ad742726a15336ed592eddb45424012716d22cd/DbSet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EShop.Tests/GuessTheNumberTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/EShop/Controllers/ProductController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/EShop/Data/EShopContextFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/EShop/Services/IProductServices.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/EShop/Services/ProductServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EShop/FolderForTesting/ScopeOfTestsMethods.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="Toolset" />
@@ -89,25 +79,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.EShop: http.executor&quot;: &quot;Debug&quot;,
-    &quot;.NET Launch Settings Profile.EShop: https.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Launch Settings Profile.PortfolioMVP: http.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature/product__api&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.EShop: http.executor": "Run",
+    ".NET Launch Settings Profile.EShop: https.executor": "Run",
+    ".NET Launch Settings Profile.PortfolioMVP: http.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "test/unit-tests",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.EShop: http">
     <configuration name="BasicMSTest" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
